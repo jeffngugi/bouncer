@@ -19,8 +19,10 @@
         "name":"Beats Solo2 On Ear Headphones - Black",
         "category":"accessories",
         "instock":10,
-        "rating":2,
+        "rating":3,
         "price":100,
+        "brand":"beats",
+        "avatar":"Beats.png",
         "reviews":[
             {
                 "id":1,
@@ -46,8 +48,10 @@
         "name":"Apple Macbook Pro",
         "category":"laptop",
         "instock":5,
-        "rating":2,
+        "rating":4.5,
         "price":100,
+        "brand":"apple",
+        "avatar":"product.png",
         "reviews":[
             {
                 "id":1,
@@ -73,8 +77,10 @@
         "name":"Lenovo yoga",
         "category":"laptop",
         "instock":5,
-        "rating":2,
+        "rating":4,
         "price":100,
+        "brand":"lenovo",
+        "avatar":"yoga.jpg",
         "reviews":[
             {
                 "id":1,
@@ -100,8 +106,10 @@
         "name":"HP g3 Revolve",
         "category":"laptop",
         "instock":5,
-        "rating":2,
+        "rating":3,
         "price":100,
+        "brand":"hp",
+        "avatar":"hpg3.jpg",
         "reviews":[
             {
                 "id":1,
@@ -127,8 +135,10 @@
         "name":"Oppo A31",
         "category":"phone",
         "instock":5,
-        "rating":2,
+        "rating":3,
         "price":19000,
+        "brand":"oppo",
+        "avatar":"oppoa31.jpg",
         "reviews":[
             {
                 "id":1,
@@ -147,6 +157,8 @@
         "instock":5,
         "rating":2,
         "price":35000,
+        "brand":"samsung",
+        "avatar":"samsungs7.jpg",
         "reviews":[
             {
                 "id":1,
@@ -169,11 +181,13 @@
     },
     {
         "id":7,
-        "name":"TCL Smart 55 smart OLED",
+        "name":"Sony Smart 55 smart OLED",
         "category":"tv",
         "instock":5,
-        "rating":2,
+        "rating":2.5,
         "price":50000,
+        "brand":"sony",
+        "avatar":"sonytv.jpg",
         "reviews":[
             {
                 "id":1,
@@ -199,8 +213,10 @@
         "name":"Sony HomeTheater",
         "category":"audio",
         "instock":5,
-        "rating":2,
+        "rating":4,
         "price":2700,
+        "brand":"sony",
+        "avatar":"sonyhome.jpg",
         "reviews":[
             {
                 "id":1,
@@ -217,8 +233,10 @@
         "name":"HP usb flash",
         "category":"accessories",
         "instock":5,
-        "rating":2,
+        "rating":1.8,
         "price":100,
+        "brand":"hp",
+        "avatar":"hp.jpg",
         "reviews":[
             {
                 "id":1,
@@ -235,6 +253,49 @@
                 "user":"jane",
                 "review":"best product"
             }
+        ],
+        "information":"Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum. Quisque in arcu id dui vulputate mollis eget non arcu. Aenean et nulla purus. Mauris vel tellus non nunc mattis lobortis."
+    
+    },
+    {
+        "id":10,
+        "name":"Synix 32E1M, 32 Inches - LED TV, I-cast, INBUILT DECORDER.",
+        "category":"tv",
+        "instock":5,
+        "rating":1.8,
+        "price":15980,
+        "brand":"synix",
+        "avatar":"synix.jpg",
+        "reviews":[],
+        "information":"About Syinix is a Japan-based professional home appliance brand. Since its foundation, it adheres to its ultimate goal of making people’s lifes smarter and better. With its distinct Japanese design style, Syinix continuously pursues innovative functional designs with everyday products. Make an order for this Syinix 32-Inch LED TV online at Jumia and have it delivered to you in no time."
+    
+    },
+    {
+        "id":11,
+        "name":"iphone X",
+        "category":"phone",
+        "instock":5,
+        "rating":3,
+        "price":19000,
+        "brand":"apple",
+        "avatar":"iphone.jpg",
+        "reviews":[
+            {
+                "id":1,
+                "user":"edith",
+                "review":"The phone is serving me right. Thank you"
+            },
+            {
+                "id":2,
+                "user":"jeff",
+                "review":"Never though apple products were this good"
+            },
+            {
+                "id":3,
+                "user":"Stanley",
+                "review":"I would give the phone a 5 star rating if it was dual sim"
+            }
+           
         ],
         "information":"Nunc facilisis sagittis ullamcorper. Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus. Sed et lorem nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eleifend laoreet congue. Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer enim purus, posuere at ultricies eu, placerat a felis. Suspendisse aliquet urna pretium eros convallis interdum. Quisque in arcu id dui vulputate mollis eget non arcu. Aenean et nulla purus. Mauris vel tellus non nunc mattis lobortis."
     
